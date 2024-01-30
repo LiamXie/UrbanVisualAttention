@@ -4,7 +4,13 @@ This is code and dataset of the paper "Entropy-Based Guidance and Predictive Mod
 
 ### Visualization Demo
 
+<img src=".\demo\comparison.gif" align="left">
 
+* Demo of 120°-front-view model (top-ground truth, bottom-prediction)
+
+<img src=".\demo\comparison360.gif" align="left">
+
+* Demo of 360° model (top-ground truth, bottom-prediction)
 
 ### Environment
 
@@ -20,3 +26,6 @@ opencv-python>=4.7.0.72
 
 ### Train
 
+To train 120°-front-view model, run: main_train.py
+
+To train 360° model, run: mian_train_360.py
