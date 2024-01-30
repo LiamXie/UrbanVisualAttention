@@ -32,7 +32,7 @@ opencv-python>=4.7.0.72
 
 ### Dataset
 
-* <a href="https://cloud.tsinghua.edu.cn/f/e0038a4d705e4c179195/?dl=1h">Dataset of 120°-front-view</a>
+* Dataset of 120°-front-view
 
 * Dataset of 360°
 
