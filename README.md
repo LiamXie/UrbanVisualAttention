@@ -8,10 +8,20 @@ Visualization of 120°-front-view model (top-ground truth, bottom-prediction)
 <img src="demo/comparison.gif" width="500px" align="center"/>
 </div>
 
+<div align="center">
+<img src="demo/comparison_02.gif" width="500px" align="center"/>
+</div>
+
 Visualization of 360° model (top-ground truth, bottom-prediction)
 <div align="center">
 <img src="demo/comparison360.gif" width="500px" align="center"/>
 </div>
+
+<div align="center">
+<img src="demo/comparison360_02.gif" width="500px" align="center"/>
+</div>
+
+
 ### Environment
 
 python>=3.8.16
