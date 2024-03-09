@@ -5,7 +5,7 @@ This is code and dataset of the paper "Entropy-Based Guidance and Predictive Mod
 ### Visualization Demo
 Visualization of 120°-front-view model (top-ground truth, bottom-prediction)
 <div align="center">
-<img src="demo/comparison.gif" loop="true" autoplay="true" width="500px" align="center"/>
+<img src="demo/comparison.gif" loop="true"  width="500px" align="center"/>
 </div>
 
 
