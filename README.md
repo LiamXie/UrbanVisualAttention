@@ -5,21 +5,25 @@ This is code and dataset of the paper "Entropy-Based Guidance and Predictive Mod
 ### Visualization Demo
 Visualization of 120°-front-view model (top-ground truth, bottom-prediction)
 <div align="center">
-<img src="demo/comparison.gif" width="500px" align="center"/>
+<img src="demo/comparison.gif" loop="true" autoplay="true" width="500px" align="center"/>
 </div>
 
+
 <div align="center">
-<img src="demo/comparison_02.gif" width="500px" align="center"/>
+<img src="demo/comparison_02.gif" loop="true" autoplay="true" width="500px" align="center"/>
 </div>
+
 
 Visualization of 360° model (top-ground truth, bottom-prediction)
 <div align="center">
-<img src="demo/comparison360.gif" width="500px" align="center"/>
+<img src="demo/comparison360.gif" loop="true" autoplay="true" width="500px" align="center"/>
 </div>
 
+
 <div align="center">
-<img src="demo/comparison360_02.gif" width="500px" align="center"/>
+<img src="demo/comparison360_02.gif" loop="true" autoplay="true" width="500px" align="center"/>
 </div>
+
 
 ### Model Architecture
 An cnn-rnn architecture is used for both models.
