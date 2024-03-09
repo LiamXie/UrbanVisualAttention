@@ -26,15 +26,20 @@ Visualization of 360° model (top-ground truth, bottom-prediction)
 
 
 ### Model Architecture
-An cnn-rnn architecture is used for both models.
+A cnn-rnn architecture is used for both models.
+
+The architecture of 120°-front-view model:
 
 <div align="center">
 <img src="imgs/model_architecture_01.jpg" width="500px" align="center"/>
 </div>
+The architecture of 360° model:
+
 
 <div align="center">
 <img src="imgs/model_architecture_02.jpg" width="500px" align="center"/>
 </div>
+
 
 ### Evaluation
 <div align="center">
@@ -51,9 +56,9 @@ opencv-python>=4.7.0.72
 
 ### Dataset
 
-* Dataset of 120°-front-view <a href="https://cloud.tsinghua.edu.cn/f/e0038a4d705e4c179195/?dl=1h">[Download]</a>
+* Dataset of 120°-front-view <a href="https://cloud.tsinghua.edu.cn/f/e0038a4d705e4c179195/?dl=1">[Download]</a>
 
-* Dataset of 360° [To be Uploaded]
+* Dataset of 360° <a href="https://cloud.tsinghua.edu.cn/f/b4668e18cd8445a7b438/?dl=1">[Download]</a>
 
 ### Train
 
