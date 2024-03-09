@@ -20,7 +20,17 @@ Visualization of 360° model (top-ground truth, bottom-prediction)
 <div align="center">
 <img src="demo/comparison360_02.gif" width="500px" align="center"/>
 </div>
+### Model Architecture
 
+An cnn-rnn architecture is used for both models.
+
+<img src="imgs/model_architecture_02.jpg" alt="model_architecture_02" style="zoom:50%;" />
+
+<img src="imgs/model_architecture_01.jpg" alt="model_architecture_01" style="zoom: 50%;" />
+
+### Evaluation
+
+![Evaluation](imgs\Evaluation.png)
 
 ### Environment
 
