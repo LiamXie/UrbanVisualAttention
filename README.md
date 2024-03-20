@@ -1,6 +1,6 @@
 ## Predictive modeling of pedestrians' visual attention in urban environment using 360° video
 
-This is code and dataset of the paper "Entropy-Based Guidance and Predictive Modelling of Pedestrians’ Visual Attention in Urban Space"
+This is code and dataset of the paper "Entropy-Based Guidance and Predictive Modelling of Pedestrians’ Visual Attention in Urban Environment"
 
 ### Visualization Demo
 Visualization of 120°-front-view model (top-ground truth, bottom-prediction)
