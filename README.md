@@ -4,6 +4,8 @@ This is code and dataset of paper "Entropy-Based Guidance and Predictive Modelli
 
 The paper has been published on Building Simulation: https://doi.org/10.1007/s12273-024-1165-y
 
+If you have any comments or queries regarding our data, code, or paper, please feel free to contact me via email: xieqixu@mail.tsinghua.edu.cn
+
 ### Visualization Demo
 Visualization of 120°-front-view model (top-ground truth, bottom-prediction)
 <div align="center">
